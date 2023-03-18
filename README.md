@@ -8,12 +8,12 @@ Step 1: Make sure you have Flutter installed in your system(if not refer https:/
 
 Step 2: 
 ```
-git clone https://github.com/YusufDrymz/flutter_firebase_sign.git
+git clone https://github.com/YusufDrymz/Firebase_Flutter_Project.git
 ```
 Step 3 : 
 
 ```
-cd flutter_firebase_sign/
+cd Firebase_Flutter_Project/
 ```
 Step 4: 
 ```
